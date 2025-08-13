@@ -6,8 +6,6 @@ It demonstrates preprocessing, model training, forecasting, and result visualiza
 ## 📂 Project Structure
 - `Air_Quality_Index_Prediction.ipynb` – Main Jupyter Notebook with the complete workflow.
 - `requirements.txt` – Python dependencies.
-- `data/` – (Optional) Dataset folder if you include sample AQI data.
-- `images/` – (Optional) Visual outputs from the model.
 
 ## 📊 Features
 - Data loading and preprocessing.
